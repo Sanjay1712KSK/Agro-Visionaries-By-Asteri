@@ -13,29 +13,38 @@ Agro-Visionaries By Asteri is an innovative drone-based agricultural monitoring 
 
 ## Screenshots
 
-### Chatbot Assistant
-![Chatbot Screenshot](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Chatbot%20Screenshot.jpeg?raw=true)
-AI-powered chatbot providing real-time farming solutions and recommendations.
+### Main Dashboard
+![Home Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Home%20page.jpeg?raw=true)
+
+**Overview of key system metrics including weather conditions, crop health, and field insights.**
 
 ### Drone Control Interface
 ![Drone Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/DRONE%20PAGE.jpeg?raw=true)
-Live drone navigation with GPS tracking and real-time flight status.
 
-### Main Dashboard
-![Home Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Home%20page.jpeg?raw=true)
-Overview of key system metrics including weather conditions, crop health, and field insights.
-
-### Insights and Analytics
-![Insights Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Insights%20Page.jpeg?raw=true)
-Detailed insights on crop health, environmental conditions, and actionable recommendations.
-
-### Drone Navigation
-![Navigation Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Navigation%20Page.jpeg?raw=true)
-Real-time drone flight path visualization and coverage tracking.
+**Live drone navigation with GPS tracking and real-time flight status.**
 
 ### Field Mapping
 ![Map Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Map%20Page.jpeg?raw=true)
-Accurate field mapping for precision agriculture and efficient resource allocation.
+
+**Accurate field mapping for precision agriculture and efficient resource allocation.**
+
+### Drone Navigation
+![Navigation Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Navigation%20Page.jpeg?raw=true)
+
+**Real-time drone flight path visualization and coverage tracking.**
+
+### Insights and Analytics
+![Insights Page](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Insights%20Page.jpeg?raw=true)
+
+**Detailed insights on crop health, environmental conditions, and actionable recommendations.**
+
+### Chatbot Assistant
+![Chatbot Screenshot](https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri/blob/main/Output%20Screenshots/Chatbot%20Screenshot.jpeg?raw=true)
+
+**AI-powered chatbot providing real-time farming solutions and recommendations**.
+
+
+**Detailed insights on crop health, environmental conditions, and actionable recommendations.**
 
 ## How to Use
 
