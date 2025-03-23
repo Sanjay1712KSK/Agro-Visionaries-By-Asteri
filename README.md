@@ -11,6 +11,8 @@ Agro-Visionaries By Asteri is an innovative drone-based agricultural monitoring 
 - **Navigation & Mapping:** Real-time mapping and drone path tracking to maximize land efficiency.
 - **Battery & Efficiency Management:** Continuous monitoring of drone power levels and flight efficiency.
 
+🌐 **Live Website:** [Visit Agro-Visionaries](https://agro-visionaries.in)
+
 ## Screenshots
 
 
