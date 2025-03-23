@@ -38,7 +38,56 @@ Real-time drone flight path visualization and coverage tracking.
 Accurate field mapping for precision agriculture and efficient resource allocation.
 
 ## How to Use
-1. Deploy the drone and establish a secure connection via `agridrone-co...`
-2. Monitor real-time environmental data, drone status, and crop health through the dashboard.
-3. Use the AI-powered assistant for smart recommendations on irrigation, fertilization, and pest control.
-4. Analyze generated insights to make data-driven agricultural decisions for improved crop productivity.
+
+### Setting up NVM and NPM in VS Code Terminal
+1. **Install NVM (Node Version Manager)**:
+   - Run the following command in your terminal to install NVM:
+     ```sh
+     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+     ```
+   - Restart your terminal and verify installation:
+     ```sh
+     command -v nvm
+     ```
+
+2. **Install Node.js using NVM**:
+   - Install the latest Node.js version:
+     ```sh
+     nvm install node
+     ```
+   - Verify installation:
+     ```sh
+     node -v
+     npm -v
+     ```
+
+### Running the Project in VS Code
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/Sanjay1712KSK/Agro-Visionaries-By-Asteri.git
+   cd Agro-Visionaries-By-Asteri
+   ```
+
+2. **Install Dependencies**:
+   ```sh
+   npm install
+   ```
+
+3. **Run the Project**:
+   ```sh
+   npm start
+   ```
+   This will start the project, and you can access it via `http://localhost:3000` in your browser.
+
+4. **Run in Development Mode**:
+   ```sh
+   npm run dev
+   ```
+   This allows the project to run with automatic updates when changes are made.
+
+5. **Building the Project (Optional)**:
+   ```sh
+   npm run build
+   ```
+
+Now your system is set up to run Agro-Visionaries By Asteri smoothly in VS Code! 🚀
