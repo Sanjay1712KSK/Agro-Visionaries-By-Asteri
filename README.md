@@ -1,4 +1,4 @@
-# Agro-Visionaries By Asteri
+## Agro-Visionaries — Agricultural Monitoring Dashboard & AI Assistant (UI Showcase)
 
 Agro-Visionaries By Asteri is an innovative drone-based agricultural monitoring system that enhances farming efficiency through real-time insights, precision mapping, and AI-driven assistance.
 
